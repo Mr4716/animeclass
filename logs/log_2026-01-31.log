@@ -1,0 +1,22 @@
+2026-01-31 15:58:24,898 - INFO - Starting to build pipeline...
+2026-01-31 15:58:24,919 - INFO - Data  loaded and processed...
+2026-01-31 15:58:24,988 - INFO - Use pytorch device_name: mps
+2026-01-31 15:58:24,988 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 15:58:31,838 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-01-31 15:58:35,530 - INFO - Vector store Built sucesfully....
+2026-01-31 15:58:35,530 - INFO - Pipeline built sucessfully....
+2026-01-31 16:08:04,484 - INFO - Initializing Recommendation Pipeline
+2026-01-31 16:08:04,530 - INFO - Use pytorch device_name: mps
+2026-01-31 16:08:04,530 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 16:08:10,983 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-01-31 16:08:11,229 - INFO - Pipeline initialized successfully
+2026-01-31 16:09:11,115 - INFO - Initializing Recommendation Pipeline
+2026-01-31 16:09:11,136 - INFO - Use pytorch device_name: mps
+2026-01-31 16:09:11,136 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-01-31 16:09:16,469 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-01-31 16:09:16,686 - INFO - Pipeline initialized successfully
+2026-01-31 16:10:11,696 - INFO - Received query: hi
+2026-01-31 16:10:12,374 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-31 16:11:28,544 - INFO - Received query: anything not typical of gen z
+2026-01-31 16:11:30,044 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-31 16:11:38,697 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
