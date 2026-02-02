@@ -1,5 +1,14 @@
+#added fro chatgpt on 02.02.26 
+import sys
+import os
+
+ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+if ROOT not in sys.path:
+    sys.path.insert(0, ROOT)
+
 import streamlit as st
 from pipeline.pipeline import AnimeRecommendationPipeline
+#sirs github
 from dotenv import load_dotenv
 from utils.bgimage import set_background
 
