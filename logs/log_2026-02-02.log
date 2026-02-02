@@ -1,0 +1,5 @@
+2026-02-02 11:08:25,782 - INFO - Initializing Recommendation Pipeline
+2026-02-02 11:08:25,839 - INFO - Use pytorch device_name: mps
+2026-02-02 11:08:25,839 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-02-02 11:08:30,831 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-02 11:08:31,313 - INFO - Pipeline initialized successfully

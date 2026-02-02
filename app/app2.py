@@ -1,12 +1,8 @@
-#added from chatgpt on 02 feb 2026
-import sys
-import os
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
-
 import streamlit as st
 from pipeline.pipeline import AnimeRecommendationPipeline
 from dotenv import load_dotenv
 from utils.bgimage import set_background
+
 # -----------------------------
 # 1. Page Configuration
 # -----------------------------
